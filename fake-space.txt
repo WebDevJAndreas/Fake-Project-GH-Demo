@@ -10,3 +10,112 @@ background. The negative space in design is as
 important as the positive area.
 
 Source: https://www.extension.iastate.edu/4hfiles/StateFair/EEHandbook/EEHJPDesign4H634.pdf
+
+What Does Space Do in Design?
+Space can be used to both separate and connect elements in a design. Wider spaces separate elements from each other and narrower spaces connect elements to reveal relationships between them. Overlapping elements maximizes their relationship.
+
+By controlling and shaping space in our designs, we create rhythm, direction, and motion. We create design flow through our use of space.
+
+Whitespace does three main things in a design.
+
+Creates groupings of elements
+Creates emphasis and hierarchy
+Improves legibility
+Consistent use of white space across pages connects those pages. Space is layout. When the space in boilerplate elements remains the same your visitors don’t get disoriented. Your navigation stays in the same location. Your logo is in the same spot on every page.
+
+You can also show difference. Sections within your site can maintain consistent space within the section and differ from other sections. As long as the boilerplate remains consistent it’s apparent the site is the same.
+
+Consistent use of negative space is a hallmark of professional design. Look at any design that strikes you as amateur. I can almost guarantee little thought will have been given to the space within the design.
+
+If you arrange white space well your elements fall into place and look great, but if you only arrange the positive elements, your white space will most always be ineffective.
+
+Whitespace gives a place for the eye to rest, which it needs in order to absorb the message you’re trying to communicate. It’s a visual cue that there’s a break in the content or that the content is finished. Whitespace makes your page and site easier to navigate.
+
+Space can be used to convey a variety of meanings, some of which include
+
+quality – wealth, luxury
+solitude – abandonment, loneliness
+cleanliness – bleached, washed
+purity – unsullied, unadulterated
+spirituality – sacredness, connection to something greater
+openness – distance, infinity
+calmness – placidity, inaction
+Negative space can be active or passive. When the space in a design is symmetrically balanced the space becomes passive. It’s static and formal and for the most part boring. When negative space is asymmetrically balanced it becomes active. It’s dynamic and modern and interesting.
+
+circles of different sizes surrounded by whitespace
+
+How to Use Space in Design
+Space in web design can be divided into to types.
+
+Micro whitespace – is the space within elements, such as the margins surrounding text and the leading between lines of text or the spaces between the individual characters.
+Macro whitespace – is the space between major elements in your design. These spaces tend to be larger and are usually immediately apparent
+Micro Whitespace
+Micro whitespace is concerned with spaces between smaller elements. It’s space between list items and space between an image and its caption. It also includes the space between elements inside a larger element. For example you might have 2 images in your sidebar that sit next to each other or a search box and a search button in a form.
+
+Much of micro whitespace will take place in your typography. I’ve written recently about legibility and readability in typographic design as well as offering thoughts on building a typographic stylesheet and I’ll direct you there to more details.
+
+Suffice it to say your use of space in typography plays a huge role in how legible and readable your text is. One of your main concerns will be setting the leading or linespacing which will help determine typographic color and is used to set a vertical rhythm in your text.
+
+Macro Whitespace
+Earlier I mentioned that space is used to separate and connect elements. Boxes (borders and backgrounds) are often used to enclose and connect some elements while separating them from other elements or groups of elements. Boxes can be overkill. Yes, they work well at separating things, but they do it too well and can sometimes harm the overall unity of the page.
+
+Space can be used instead of boxes to separate and connect. Again wider spaces separate and in comparison narrower spaces will connect. Space can be a better way to separate elements while still maintaining unity across your design.
+
+Negative space can be used to give emphasis to elements. Those placed within or near large blocks of space gain importance by their separation from other elements. They naturally stand out in a field of empty space as well. Through emphasis we begin to create a visual hierarchy in our design.
+
+Whitespace plays a role in many other design principles. It’s used to achieve balance, both symmetrical and asymmetrical. Space implies rhythm and movement. It’s the ground in the gestalt figure/ground relationship.
+
+Space creates columns, rows, and grids.
+
+Typographic information poster by holtzapple
+
+Grids and Space
+Grids are a way to organize space. By learning to use grid systems a designer is forced to think about whitespace and learn to shape it in designs. Grids become visible in part by the way elements align and also by the fields and paths of empty space that aren’t filled.
+
+Grids encourage you to create more dynamic and asymmetrical compositions in which space is not only present, but flows through and around elements in your design.
+
+Fixed and Fluid Layouts
+When working in print the overall size of your page, the total space you get to manipulate is fixed. Not so on the web.
+
+One reason you see many web designers opt for a fixed layout is because it fixes the working space of your design. It allows for less surprises in the whitespace. Currently it’s common to set the page width at 960px. This gives web designers more control over the horizontal space, since one aspect of the total space is fixed.
+
+Often fixed layouts are centered within the browser window. This creates a passive (symmetrical) balance of space outside the page. Inside the 960px the designer is free to use either passive or active space.
+
+We lose control of the overall space with fluid layouts. The more fluid your design, the less control you have over the total whitespace. This leads to new problems to solve in regards to space. Will every column in the design be fluid? If so how will the micro space in the column be managed as the column expands and contracts? Will some columns be fixed and if so how will the macro space between major elements be managed?
+
+I can’t speak for you, but when I’ve come across completely fluid designs their major failing seems to be in how the whitespace changes at different browser sizes. What looks good and is easy to read at one width looks horrible and becomes difficult to read at another. For the most part I don’t think web designers have thought much about or at least solved this problem of the total canvas space changing. Hence the more common use of fixed layouts.
+
+Blank cloth
+
+Can You Have Too Much Whitespace?
+You generally won’t hear many complaints about a design having too much whitespace. Many new to design will attempt to fill every last bit of space with color or graphics or content. More experienced designers will encourage you to use more space and not try to fill up every little bit. Again few people viewing a design will complain that it has too much whitespace.
+
+Still there are times when it makes sense to fill more of the space. You have to consider both the content of the page and medium delivering the page.
+
+Ecommerce sites are a good example of the former. There’s no reason why most pages in an ecommerce site can’t use ample space. However think about category and search pages, which are mostly a grid or list of products. Too much space can make it harder to compare one product with the next. That’s not to say you should fill all the space on these pages. Rather you need to think differently about it.
+
+Micro whitespace takes on more importance to ensure that products and any information about them can be easily understood. You also need to make sure one product and it’s information can easily be differentiated from the next one. Overall though you would probably use a tighter grid with less space between elements (products)
+
+A case where the medium takes on importance is design for mobile devices. Given the smaller screen sizes too much space could lead to a mostly or even completely empty screen requiring visitors to scroll to see anything. Again make use of micro whitespace for smaller screens, but be aware that large blocks of space may not work as well as you think. You have to carefully consider the smaller amounts of space you have to work with.
+
+Information graphics are another case where less space in the content makes sense. More densely packed information allows readers to compare the data more quickly. You’ll want enough space so each bit of information can be clearly seen and discerned, but not so much that it makes it hard to compare and contrast them. Here you might opt for other ways to separate elements such as different colored backgrounds on rows or columns in a table.
+
+Logos that make use of whitespace
+
+Whitespace in Logos
+One of the more fun ways to study whitespace is to see how it’s been applied in logos. I don’t have any specific thoughts to share in regards to whitespace in logos other than to say the principles above still apply. Mostly I thought I’d point you to a few posts that show a variety of logos where whitespace is not only used, but used in a way where it makes the logo what it is.
+
+Enjoy
+
+Negative space in logo design
+A Showcase of Clever Negative Space in Logo Design
+There are plenty more similar posts if you search and want to see more use of negative space in logos.
+
+Summary
+In his famous book on writing, The Elements of Style, William Strunk offers the phrase “omit needless words.” We can modify that for visual design as “omit needless elements.”
+
+When designing a page think about what truly needs to be there. Omit everything else. Thinking about space will help you see what is and isn’t essential on the page. More than likely you can include less elements than you think in your design.
+
+An interesting point system (<— scroll down to the bottom of the page) which I've seen a few times, is where a total amount of points is allocated to be distributed across all the elements on the page. You assign more points to the most important elements and less to the least important elements, thereby creating a hierarchy for your design. In establishing this hierarchy you'll find that there are no points left for some elements, which should tell you they probably don't need to be included in the page. You'll need less elements, more whitespace, to give emphasis to your most important design elements. Space is perhaps the most important tool for any visual designer. It plays a role in grids and typography and is a component of so many different design principles. When we learn to see space and learn to control it within our designs we elevate ourselves to a new level of design skill. As you find designs you like take the time to study them, particularly in how they use whitespace. Learn how effective use of space can make or break a design and how controlling space in your designs can make them more interesting and communicate more effectively.
+
+Source: https://vanseodesign.com/web-design/design-space/
