@@ -7,3 +7,43 @@ Green
 Blue
 Indigo
 Violet
+
+Color is the result of light reflecting back from an object to our eyes.[5] The color that our eyes perceive is determined by the pigment of the object itself.[5] Color theory and the color wheel are often referred to when studying color combinations in visual design.[6] Color is often deemed to be an important element of design as it is a universal language which presents the countless possibilities of visual communication.[7]
+
+Hue, saturation, and brightness are the three characteristics that describe color.[8]
+
+Hue can simply be referred to as "color" as in red, yellow, or green.[9]
+Saturation gives a color brightness or dullness, which impacts the vibrance of the color.[9]
+Values, tints and shades of colors are created by adding black to a color for a shade and white for a tint. Creating a tint or shade of color reduces the saturation.[9]
+Color theory in visual design
+Color theory studies color mixing and color combinations. It is one of the first things that marked a progressive design approach.[7] In visual design, designers refer to color theory as a body of practical guidance to achieving certain visual impacts with specific color combinations.[citation needed] Theoretical color knowledge is implemented in designs in order to achieve a successful color design.[10]
+
+Color harmony
+Color harmony, often referred to as a "measure of aesthetics",[10] studies which color combinations are harmonious and pleasing to the eye, and which color combinations are not.[8] Color harmony is a main concern for designers given that colors always exist in the presence of other colors in form or space.[10]
+
+When a designer harmonizes colors, the relationships among a set of colors are enhanced to increase the way they complement one another. Colors are harmonized to achieve a balanced, unified, and aesthetically pleasing effect for the viewer.[8]
+
+Color harmony is achieved in a variety of ways, some of which consist of combining a set of colors that share the same hue, or a set of colors that share the same values for two of the three color characteristics (hue, saturation, brightness).[8] Color harmony can also be achieved by simply combining colors that are considered compatible to one another[8] as represented in the color wheel.
+
+Color contrasts
+Color contrasts are studied with a pair of colors, as opposed to color harmony, which studies a set of colors. In color contrasting, two colors with perceivable differences in aspects such as luminance, or saturation, are placed side by side to create contrast.[citation needed]
+
+Johannes Itten presented seven kinds of color contrasts: contrast of light and dark, contrast of hue, contrast of temperature, contrast of saturation, simultaneous contrast, contrast of sizes, and contrast of complementary.[8] These seven kinds of color contrasts have inspired past works involving color schemes in design.[8]
+
+Color schemes
+Color schemes are defined as the set of colors chosen for a design. They are often made up of two or more colors that look appealing beside one another, and that create an aesthetic feeling when used together. Color schemes depend on color harmony as they point to which colors look pleasing beside one another.[10]
+
+A satisfactory design product is often accompanied by a successful color scheme. Over time, color design tools with the function of generating color schemes were developed to facilitate color harmonizing for designers.[11]
+
+Use of color in visual design
+Color is used to create harmony, balance, and visual comfort in a design[10]
+Color is used to evoke the desired mood and emotion upon the viewer[5]
+Color is used to create a theme in the design[8]
+Color holds meaning and can be symbolic. In certain cultures, different colors can have different meanings.[5]
+Color is used to put emphasis on desired elements and create visual hierarchy in a piece of art[12]
+Color can create identity for a certain brand or design product[12]
+Color allows viewers to have different interpretations of visual designs. The same color can evoke different emotions, or have various meanings to different individuals and cultures[5]
+Color strategies are used for organization and consistency in a design product[9]
+In the architectural design of a retail environment, colors affect decision making which motivates consumers to buy particular products[12]
+
+Source: https://en.wikipedia.org/wiki/Visual_design_elements_and_principles
