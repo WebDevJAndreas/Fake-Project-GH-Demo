@@ -47,3 +47,5 @@ Color strategies are used for organization and consistency in a design product[9
 In the architectural design of a retail environment, colors affect decision making which motivates consumers to buy particular products[12]
 
 Source: https://en.wikipedia.org/wiki/Visual_design_elements_and_principles
+
+(Add more content here)
