@@ -1,4 +1,4 @@
-SPACE 
+SPACE
 
 Space refers to the area that a shape or form occupies.
 It also refers to the background against which we see
