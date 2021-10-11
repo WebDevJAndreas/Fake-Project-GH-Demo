@@ -18,9 +18,10 @@ By controlling and shaping space in our designs, we create rhythm, direction, an
 
 Whitespace does three main things in a design.
 
-Creates groupings of elements
-Creates emphasis and hierarchy
-Improves legibility
+-Creates groupings of elements
+-Creates emphasis and hierarchy
+-Improves legibility
+
 Consistent use of white space across pages connects those pages. Space is layout. When the space in boilerplate elements remains the same your visitors don’t get disoriented. Your navigation stays in the same location. Your logo is in the same spot on every page.
 
 You can also show difference. Sections within your site can maintain consistent space within the section and differ from other sections. As long as the boilerplate remains consistent it’s apparent the site is the same.
